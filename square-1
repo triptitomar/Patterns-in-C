@@ -13,7 +13,6 @@ int main() {
     return 0;
 }
 
-
 output:
 enter the value of n:4
 ****
